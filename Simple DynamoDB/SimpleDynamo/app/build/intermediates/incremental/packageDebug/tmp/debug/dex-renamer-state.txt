@@ -1,0 +1,4 @@
+#Thu May 09 00:49:28 EDT 2019
+base.0=/Users/pradeep/Downloads/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
